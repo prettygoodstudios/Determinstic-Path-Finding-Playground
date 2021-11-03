@@ -28,3 +28,4 @@ class Player:
 
 if __name__ == "__main__":
     enviroment = Environment(30, 30, Player())
+    print(enviroment)
